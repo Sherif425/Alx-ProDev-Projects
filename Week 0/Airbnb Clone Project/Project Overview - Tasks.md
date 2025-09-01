@@ -107,10 +107,6 @@ Check submission View results
 
 ##### 1\. Team Roles and Responsibilities
 
-mandatory
-
-Score: 50.0% (Checks completed: 100.0%)
-
 **Objective:** Understand the various roles within the project team.
 
 **Instructions:**
@@ -127,7 +123,7 @@ Score: 50.0% (Checks completed: 100.0%)
 -   GitHub repository: `airbnb-clone-project`
 -   File: `README.md`
 
-Check submission View results
+
 
 ##### 2\. Technology Stack Overview
 
@@ -153,13 +149,10 @@ Score: 50.0% (Checks completed: 100.0%)
 -   GitHub repository: `airbnb-clone-project`
 -   File: `README.md`
 
-Check submission View results
 
 ##### 3\. Database Design Overview
 
-mandatory
 
-Score: 0.0% (Checks completed: 0.0%)
 
 **Objective:** Understand how the database will be structured.
 
@@ -183,9 +176,7 @@ Check submission Mark submission : in progress... : an error occurred View resul
 
 ##### 4\. Feature Breakdown
 
-mandatory
 
-Score: 0.0% (Checks completed: 0.0%)
 
 **Objective:** Detail the features of the Airbnb Clone project.
 
@@ -209,9 +200,7 @@ Check submission Mark submission : in progress... : an error occurred View resul
 
 ##### 5\. API Security Overview
 
-mandatory
 
-Score: 0.0% (Checks completed: 0.0%)
 
 **Objective:** Understand the importance of securing the backend APIs.
 
@@ -235,9 +224,6 @@ Check submission Mark submission : in progress... : an error occurred View resul
 
 ##### 6\. CI/CD Pipeline Overview
 
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
 
 **Objective:** Understand how CI/CD pipelines contribute to the development process.
 
@@ -261,9 +247,7 @@ Check submission Mark submission : in progress... : an error occurred View resul
 
 ##### 7\. Manual Review
 
-mandatory
 
-Score: 0.0% (Checks completed: 0.0%)
 
 **Repo:**
 
