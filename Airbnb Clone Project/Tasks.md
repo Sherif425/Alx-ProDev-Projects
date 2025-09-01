@@ -65,8 +65,7 @@ We’re here to support your learning journey. Happy coding! ✨
 
 Tasks
 0. Project Initialization
-mandatory
-Score: 50.0% (Checks completed: 100.0%)
+
 Objective: Set up your GitHub repository for the AirBnB Clone project.
 
 Instructions:
@@ -85,8 +84,7 @@ GitHub repository: airbnb-clone-project
 File: README.md
  
 1. Team Roles and Responsibilities
-mandatory
-Score: 50.0% (Checks completed: 100.0%)
+
 Objective: Understand the various roles within the project team.
 
 Instructions:
@@ -103,8 +101,7 @@ GitHub repository: airbnb-clone-project
 File: README.md
  
 2. Technology Stack Overview
-mandatory
-Score: 50.0% (Checks completed: 100.0%)
+
 Objective: Deepen your understanding of the project’s technology stack.
 
 Instructions:
@@ -123,8 +120,7 @@ GitHub repository: airbnb-clone-project
 File: README.md
  
 3. Database Design Overview
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+
 Objective: Understand how the database will be structured.
 
 Instructions:
@@ -143,8 +139,7 @@ GitHub repository: airbnb-clone-project
 File: README.md
   
 4. Feature Breakdown
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+
 Objective: Detail the features of the Airbnb Clone project.
 
 Instructions:
@@ -163,8 +158,7 @@ GitHub repository: airbnb-clone-project
 File: README.md
   
 5. API Security Overview
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+
 Objective: Understand the importance of securing the backend APIs.
 
 Instructions:
@@ -183,8 +177,7 @@ GitHub repository: airbnb-clone-project
 File: README.md
   
 6. CI/CD Pipeline Overview
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+
 Objective: Understand how CI/CD pipelines contribute to the development process.
 
 Instructions:
@@ -197,15 +190,3 @@ Mention the tools that could be used for this (e.g., GitHub Actions, Docker, etc
 
 Commit and push the changes to your GitHub repository.
 
-Repo:
-
-GitHub repository: airbnb-clone-project
-File: README.md
-  
-7. Manual Review
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Repo:
-
-GitHub repository: airbnb-clone-project
-File: README.md
