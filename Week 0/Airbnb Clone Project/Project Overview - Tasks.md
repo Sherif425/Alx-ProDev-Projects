@@ -79,11 +79,6 @@ We’re here to support your learning journey. Happy coding! ✨
 
 ## Tasks
 
-##### 0\. Project Initialization
-
-mandatory
-
-Score: 50.0% (Checks completed: 100.0%)
 
 **Objective:** Set up your GitHub repository for the AirBnB Clone project.
 
