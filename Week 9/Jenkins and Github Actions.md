@@ -1,86 +1,5 @@
 # Project: Jenkins and Github Actions | Cairo Intranet
 
-ProDev Backend Average: 83.34%
-
--   [
-    
-    Back-End Web Development Average: 96.1%
-    
-    
-    
-    ](/curriculums/70/observe)
--   [
-    
-    ProDev Backend Average: 83.34%
-    
-    
-    
-    ](/curriculums/86/observe)
--   [
-    
-    Professional Foundations Average: 94.18%
-    
-    
-    
-    ](/curriculums/89/observe)
-
-Week 9
-
-Week 9
-
--   [Week 0](/projects/102638)
--   [Week 1](/concepts/113077?project_id=102975)
--   [Week 2](/projects/101641)
--   [Week 3](/projects/102758)
--   [Week 4](/projects/101642)
--   [Week 5](/projects/101622)
--   [Week 6](/projects/209)
--   [Week 7](/projects/102965)
--   [Week 8](/projects/102087)
--   [Week 9](/projects/101632)
--   [Week 10](/projects/102428)
--   [Week 11](/projects/102426)
-
-## Jenkins and Github Actions
-
-[
-
-CI/CD Pipelines – Setting Up Continuous Integration and Deployment
-
-](/concepts/107384?project_id=101632)[
-
-Peer Reviews – Feedback That Fuels Growth 💬
-
-](/concepts/111572?project_id=101632)[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=101632)[
-
-Jenkins and Github Actions
-
-](/projects/101632)
-
-# Jenkins and Github Actions
-
--   Novice
--   Weight: 1
--   Project over - took place from Aug 18, 2025 1:00 AM to Aug 25, 2025 1:00 AM
--   Manual QA review was done on Aug 24, 2025 9:22 PM
--   An auto review will be launched at the deadline
-
-#### In a nutshell…
-
--   **Manual QA review:** 6.0/6 mandatory
--   **Auto QA review:** 7.0/7 mandatory
--   **Altogether:**  **100.0%**
-    -   Mandatory: 100.0%
-    -   Optional: no optional tasks
-
-**Overall comment:**
-
-Good Job
-
 #### **Overview**
 
 This project focuses on setting up a **Continuous Integration and Continuous Deployment (CI/CD)** pipeline for a Django-based messaging application. The pipeline includes:  
@@ -425,31 +344,9 @@ Score: 100.0% (Checks completed: 100.0%)
 
 Check submission View results
 
-##### 5\. Manual Review
 
-mandatory
-
-Score: 100.0% (Checks completed: 100.0%)
 
 **Repo:**
 
 -   GitHub repository: `alx-backend-python`
 -   Directory: `messaging_app`
-
-View results
-
-Ready for a new review
-
-[
-
-Back
-
-](/concepts/111449?project_id=101632)
-
-[
-
-Next
-
-](/projects/102428)
-
-Copyright © 2025 ALX, All rights reserved.

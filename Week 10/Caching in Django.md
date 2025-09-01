@@ -1,99 +1,5 @@
 # Project: Caching in Django | Cairo Intranet
 
-ProDev Backend Average: 83.34%
-
--   [
-    
-    Back-End Web Development Average: 96.1%
-    
-    
-    
-    ](/curriculums/70/observe)
--   [
-    
-    ProDev Backend Average: 83.34%
-    
-    
-    
-    ](/curriculums/86/observe)
--   [
-    
-    Professional Foundations Average: 94.18%
-    
-    
-    
-    ](/curriculums/89/observe)
-
-Week 10
-
-Week 10
-
--   [Week 0](/projects/102638)
--   [Week 1](/concepts/113077?project_id=102975)
--   [Week 2](/projects/101641)
--   [Week 3](/projects/102758)
--   [Week 4](/projects/101642)
--   [Week 5](/projects/101622)
--   [Week 6](/projects/209)
--   [Week 7](/projects/102965)
--   [Week 8](/projects/102087)
--   [Week 9](/projects/101632)
--   [Week 10](/projects/102428)
--   [Week 11](/projects/102426)
-
-## Scheduling and Automation
-
-[
-
-Automating Tasks in Django: From Cron Basics to Advanced Scheduling
-
-](/concepts/110234?project_id=102247)[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=102247)[
-
-Crons: Scheduling and Automating Tasks
-
-](/projects/102247)
-
-## Milestone 5
-
-[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=101645)[
-
-Milestone 5: Setting Up Background Jobs for Email Notifications
-
-](/projects/101645)
-
-## Caching In Django
-
-[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=102428)[
-
-Caching in Django
-
-](/projects/102428)
-
-# Caching in Django
-
--   Novice
--   Weight: 1
--   Project over - took place from Aug 25, 2025 1:00 AM to Sep 1, 2025 1:00 AM
--   An auto review will be launched at the deadline
-
-#### In a nutshell…
-
--   **Auto QA review:** 17.0/17 mandatory
--   **Altogether:**  **100.0%**
-    -   Mandatory: 100.0%
-    -   Optional: no optional tasks
 
 #### Overview
 
@@ -156,9 +62,7 @@ We’re here to support your learning journey. Happy coding! ✨
 
 ##### 0\. Set Up Django Project with Dockerized PostgreSQL and Redis
 
-mandatory
 
-Score: 100.0% (Checks completed: 100.0%)
 
 ##### Objective
 
@@ -296,19 +200,3 @@ Retrieve and analyze Redis cache hit/miss metrics.
 
 -   GitHub repository: `alx-backend-caching_property_listings`
 -   File: `properties/utils.py`
-
-Check submission View results
-
-[
-
-Back
-
-](/concepts/111449?project_id=102428)
-
-[
-
-Next
-
-](/projects/102426)
-
-Copyright © 2025 ALX, All rights reserved.

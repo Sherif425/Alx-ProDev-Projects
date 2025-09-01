@@ -1,115 +1,5 @@
 # Project: Understanding GraphQL | Cairo Intranet
 
-ProDev Backend Average: 83.34%
-
--   [
-    
-    Back-End Web Development Average: 96.1%
-    
-    
-    
-    ](/curriculums/70/observe)
--   [
-    
-    ProDev Backend Average: 83.34%
-    
-    
-    
-    ](/curriculums/86/observe)
--   [
-    
-    Professional Foundations Average: 94.18%
-    
-    
-    
-    ](/curriculums/89/observe)
-
-Week 8
-
-Week 8
-
--   [Week 0](/projects/102638)
--   [Week 1](/concepts/113077?project_id=102975)
--   [Week 2](/projects/101641)
--   [Week 3](/projects/102758)
--   [Week 4](/projects/101642)
--   [Week 5](/projects/101622)
--   [Week 6](/projects/209)
--   [Week 7](/projects/102965)
--   [Week 8](/projects/102087)
--   [Week 9](/projects/101632)
--   [Week 10](/projects/102428)
--   [Week 11](/projects/102426)
-
-## Container orchestration with Kubernete
-
-[
-
-Containerization: Introduction to Docker and Container Orchestration with Kubernetes
-
-](/concepts/107383?project_id=101631)[
-
-Peer Reviews – Feedback That Fuels Growth 💬
-
-](/concepts/111572?project_id=101631)[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=101631)[
-
-Basics of container orchestration with Kubernete
-
-](/projects/101631)
-
-## SSH
-
-[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=244)[
-
-0x0B. SSH
-
-](/projects/244)
-
-## GraphQL
-
-[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=102394)[
-
-Understanding GraphQL
-
-](/projects/102394)
-
-## Milestone 4
-
-[
-
-How PLDs Work (Step-by-Step) - Get it started!
-
-](/concepts/111449?project_id=102087)[
-
-Milestone 4: Payment Integration with Chapa API
-
-](/projects/102087)
-
-# Understanding GraphQL
-
--   Weight: 1
--   Project over - took place from Aug 11, 2025 1:00 AM to Aug 18, 2025 1:00 AM
--   An auto review will be launched at the deadline
-
-#### In a nutshell…
-
--   **Auto QA review:** 26.0/28 mandatory
--   **Altogether:**  **92.86%**
-    -   Mandatory: 92.86%
-    -   Optional: no optional tasks
-
 #### Overview
 
 GraphQL is a powerful query language and runtime for APIs, developed by Facebook, that allows clients to request exactly the data they need — nothing more, nothing less. Unlike REST APIs, which return fixed data structures, GraphQL gives clients the flexibility to shape the response format.
@@ -195,9 +85,6 @@ Use GraphiQL for automatic schema documentation and make it available to clients
 
 ##### 0\. Set Up GraphQL Endpoint
 
-mandatory
-
-Score: 100.0% (Checks completed: 100.0%)
 
 ##### Objective
 
@@ -682,19 +569,3 @@ Allow users to search for customers using filters such as emails or names
 
 -   GitHub repository: `alx-backend-graphql_crm`
 -   File: `crm/schema.py, alx-backend-graphql_crm/settings.py, crm/filters.py`
-
-Check submission Mark submission : in progress... : an error occurred View results
-
-[
-
-Back
-
-](/concepts/111449?project_id=102394)
-
-[
-
-Next
-
-](/concepts/111449?project_id=102087)
-
-Copyright © 2025 ALX, All rights reserved.
